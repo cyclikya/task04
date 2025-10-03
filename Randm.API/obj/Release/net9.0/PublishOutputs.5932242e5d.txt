@@ -1,0 +1,3 @@
+C:\General\ITransition\task04\publish\randm\Randm.API.dll
+C:\General\ITransition\task04\publish\randm\Randm.API.deps.json
+C:\General\ITransition\task04\publish\randm\Randm.API.pdb

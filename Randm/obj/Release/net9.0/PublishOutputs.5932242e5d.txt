@@ -1,0 +1,9 @@
+C:\General\ITransition\task04\publish\randm\Randm.exe
+C:\General\ITransition\task04\publish\randm\Randm.dll
+C:\General\ITransition\task04\publish\randm\Randm.deps.json
+C:\General\ITransition\task04\publish\randm\Randm.runtimeconfig.json
+C:\General\ITransition\task04\publish\randm\Randm.pdb
+C:\General\ITransition\task04\publish\randm\BouncyCastle.Crypto.dll
+C:\General\ITransition\task04\publish\randm\Spectre.Console.dll
+C:\General\ITransition\task04\publish\randm\Randm.API.dll
+C:\General\ITransition\task04\publish\randm\Randm.API.pdb

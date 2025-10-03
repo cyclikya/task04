@@ -1,0 +1,5 @@
+C:\General\ITransition\task04\publish\randm\Morties.Classic.dll
+C:\General\ITransition\task04\publish\randm\Morties.Classic.deps.json
+C:\General\ITransition\task04\publish\randm\Morties.Classic.pdb
+C:\General\ITransition\task04\publish\randm\Randm.API.dll
+C:\General\ITransition\task04\publish\randm\Randm.API.pdb

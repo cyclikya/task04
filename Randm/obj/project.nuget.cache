@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gkPg0anOJOY=",
+  "success": true,
+  "projectFilePath": "C:\\General\\ITransition\\task04\\Randm\\Randm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vugor\\.nuget\\packages\\bouncycastle.netcore\\2.2.1\\bouncycastle.netcore.2.2.1.nupkg.sha512",
+    "C:\\Users\\vugor\\.nuget\\packages\\spectre.console\\0.51.1\\spectre.console.0.51.1.nupkg.sha512"
+  ],
+  "logs": []
+}

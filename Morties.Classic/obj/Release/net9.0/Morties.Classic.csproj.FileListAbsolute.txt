@@ -1,0 +1,16 @@
+C:\General\ITransition\task04\Morties.Classic\bin\Release\net9.0\Morties.Classic.deps.json
+C:\General\ITransition\task04\Morties.Classic\bin\Release\net9.0\Morties.Classic.dll
+C:\General\ITransition\task04\Morties.Classic\bin\Release\net9.0\Morties.Classic.pdb
+C:\General\ITransition\task04\Morties.Classic\bin\Release\net9.0\Randm.API.dll
+C:\General\ITransition\task04\Morties.Classic\bin\Release\net9.0\Randm.API.pdb
+C:\General\ITransition\task04\Morties.Classic\obj\Release\net9.0\Morties.Classic.csproj.AssemblyReference.cache
+C:\General\ITransition\task04\Morties.Classic\obj\Release\net9.0\Morties.Classic.GeneratedMSBuildEditorConfig.editorconfig
+C:\General\ITransition\task04\Morties.Classic\obj\Release\net9.0\Morties.Classic.AssemblyInfoInputs.cache
+C:\General\ITransition\task04\Morties.Classic\obj\Release\net9.0\Morties.Classic.AssemblyInfo.cs
+C:\General\ITransition\task04\Morties.Classic\obj\Release\net9.0\Morties.Classic.csproj.CoreCompileInputs.cache
+C:\General\ITransition\task04\Morties.Classic\obj\Release\net9.0\Morties.Classic.sourcelink.json
+C:\General\ITransition\task04\Morties.Classic\obj\Release\net9.0\Morties..0465EEEA.Up2Date
+C:\General\ITransition\task04\Morties.Classic\obj\Release\net9.0\Morties.Classic.dll
+C:\General\ITransition\task04\Morties.Classic\obj\Release\net9.0\refint\Morties.Classic.dll
+C:\General\ITransition\task04\Morties.Classic\obj\Release\net9.0\Morties.Classic.pdb
+C:\General\ITransition\task04\Morties.Classic\obj\Release\net9.0\ref\Morties.Classic.dll

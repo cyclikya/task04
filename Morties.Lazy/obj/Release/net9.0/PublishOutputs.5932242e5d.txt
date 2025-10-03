@@ -1,0 +1,5 @@
+C:\General\ITransition\task04\publish\randm\Morties.Lazy.dll
+C:\General\ITransition\task04\publish\randm\Morties.Lazy.deps.json
+C:\General\ITransition\task04\publish\randm\Morties.Lazy.pdb
+C:\General\ITransition\task04\publish\randm\Randm.API.dll
+C:\General\ITransition\task04\publish\randm\Randm.API.pdb

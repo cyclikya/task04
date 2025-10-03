@@ -1,0 +1,16 @@
+C:\General\ITransition\task04\Morties.Lazy\bin\Release\net9.0\Morties.Lazy.deps.json
+C:\General\ITransition\task04\Morties.Lazy\bin\Release\net9.0\Morties.Lazy.dll
+C:\General\ITransition\task04\Morties.Lazy\bin\Release\net9.0\Morties.Lazy.pdb
+C:\General\ITransition\task04\Morties.Lazy\bin\Release\net9.0\Randm.API.dll
+C:\General\ITransition\task04\Morties.Lazy\bin\Release\net9.0\Randm.API.pdb
+C:\General\ITransition\task04\Morties.Lazy\obj\Release\net9.0\Morties.Lazy.csproj.AssemblyReference.cache
+C:\General\ITransition\task04\Morties.Lazy\obj\Release\net9.0\Morties.Lazy.GeneratedMSBuildEditorConfig.editorconfig
+C:\General\ITransition\task04\Morties.Lazy\obj\Release\net9.0\Morties.Lazy.AssemblyInfoInputs.cache
+C:\General\ITransition\task04\Morties.Lazy\obj\Release\net9.0\Morties.Lazy.AssemblyInfo.cs
+C:\General\ITransition\task04\Morties.Lazy\obj\Release\net9.0\Morties.Lazy.csproj.CoreCompileInputs.cache
+C:\General\ITransition\task04\Morties.Lazy\obj\Release\net9.0\Morties.Lazy.sourcelink.json
+C:\General\ITransition\task04\Morties.Lazy\obj\Release\net9.0\Morties..9B23FF3B.Up2Date
+C:\General\ITransition\task04\Morties.Lazy\obj\Release\net9.0\Morties.Lazy.dll
+C:\General\ITransition\task04\Morties.Lazy\obj\Release\net9.0\refint\Morties.Lazy.dll
+C:\General\ITransition\task04\Morties.Lazy\obj\Release\net9.0\Morties.Lazy.pdb
+C:\General\ITransition\task04\Morties.Lazy\obj\Release\net9.0\ref\Morties.Lazy.dll

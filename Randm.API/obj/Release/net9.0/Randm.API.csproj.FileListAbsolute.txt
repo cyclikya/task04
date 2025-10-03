@@ -1,0 +1,12 @@
+C:\General\ITransition\task04\Randm.API\bin\Release\net9.0\Randm.API.deps.json
+C:\General\ITransition\task04\Randm.API\bin\Release\net9.0\Randm.API.dll
+C:\General\ITransition\task04\Randm.API\bin\Release\net9.0\Randm.API.pdb
+C:\General\ITransition\task04\Randm.API\obj\Release\net9.0\Randm.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\General\ITransition\task04\Randm.API\obj\Release\net9.0\Randm.API.AssemblyInfoInputs.cache
+C:\General\ITransition\task04\Randm.API\obj\Release\net9.0\Randm.API.AssemblyInfo.cs
+C:\General\ITransition\task04\Randm.API\obj\Release\net9.0\Randm.API.csproj.CoreCompileInputs.cache
+C:\General\ITransition\task04\Randm.API\obj\Release\net9.0\Randm.API.dll
+C:\General\ITransition\task04\Randm.API\obj\Release\net9.0\refint\Randm.API.dll
+C:\General\ITransition\task04\Randm.API\obj\Release\net9.0\Randm.API.pdb
+C:\General\ITransition\task04\Randm.API\obj\Release\net9.0\ref\Randm.API.dll
+C:\General\ITransition\task04\Randm.API\obj\Release\net9.0\Randm.API.sourcelink.json

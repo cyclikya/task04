@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\General\\ITransition\\task04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A79F5E26-68D8-8E82-FDA6-88CD64E34114}|Randm\\Randm.csproj|c:\\general\\itransition\\task04\\randm\\fairrandomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79F5E26-68D8-8E82-FDA6-88CD64E34114}|Randm\\Randm.csproj|solutionrelative:randm\\fairrandomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79F5E26-68D8-8E82-FDA6-88CD64E34114}|Randm\\Randm.csproj|c:\\general\\itransition\\task04\\randm\\argparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79F5E26-68D8-8E82-FDA6-88CD64E34114}|Randm\\Randm.csproj|solutionrelative:randm\\argparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79F5E26-68D8-8E82-FDA6-88CD64E34114}|Randm\\Randm.csproj|c:\\general\\itransition\\task04\\randm\\gamecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79F5E26-68D8-8E82-FDA6-88CD64E34114}|Randm\\Randm.csproj|solutionrelative:randm\\gamecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FairRandomGenerator.cs",
+              "DocumentMoniker": "C:\\General\\ITransition\\task04\\Randm\\FairRandomGenerator.cs",
+              "RelativeDocumentMoniker": "Randm\\FairRandomGenerator.cs",
+              "ToolTip": "C:\\General\\ITransition\\task04\\Randm\\FairRandomGenerator.cs",
+              "RelativeToolTip": "Randm\\FairRandomGenerator.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:46:08.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArgParser.cs",
+              "DocumentMoniker": "C:\\General\\ITransition\\task04\\Randm\\ArgParser.cs",
+              "RelativeDocumentMoniker": "Randm\\ArgParser.cs",
+              "ToolTip": "C:\\General\\ITransition\\task04\\Randm\\ArgParser.cs",
+              "RelativeToolTip": "Randm\\ArgParser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:51:30.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCore.cs",
+              "DocumentMoniker": "C:\\General\\ITransition\\task04\\Randm\\GameCore.cs",
+              "RelativeDocumentMoniker": "Randm\\GameCore.cs",
+              "ToolTip": "C:\\General\\ITransition\\task04\\Randm\\GameCore.cs",
+              "RelativeToolTip": "Randm\\GameCore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:45:53.581Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
